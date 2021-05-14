@@ -26,4 +26,4 @@ Patrycja Dmochewicz.
 
 ## Linki:
 1) [Wersja desktopowa](https://xd.adobe.com/view/69b63c44-ebf0-462a-93d4-7b0287124764-3ce5/?fbclid=IwAR0lgY4xTiVRafUSlgfWHNmZO7vdPF5tsIyqv7vbC9dQHhQTXiyzimf7Tt0)
-2) [Wersja mobilna](https://www.figma.com/file/WcwO3bHVJkNebZU8Dj9MZt/Aplikacja-Studencka-WSB)
+2) [Wersja mobilna](https://www.figma.com/proto/WcwO3bHVJkNebZU8Dj9MZt/Aplikacja-Studencka-WSB?node-id=4%3A2&scaling=scale-down&page-id=0%3A1)
