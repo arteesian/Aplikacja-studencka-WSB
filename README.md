@@ -23,6 +23,7 @@ Patrycja Dmochewicz.
 1) Plik Enterprise Architecta z diagramami (.eapx)
 2) Zdjęcia diagramów
 3) Linki do prototypów aplikacji
+4) Dokumentacja aplikacji WSB
 
 ## Linki:
 1) [Wersja desktopowa](https://xd.adobe.com/view/69b63c44-ebf0-462a-93d4-7b0287124764-3ce5/?fbclid=IwAR0lgY4xTiVRafUSlgfWHNmZO7vdPF5tsIyqv7vbC9dQHhQTXiyzimf7Tt0)
